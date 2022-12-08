@@ -12,3 +12,9 @@
 ### todo list image
 
 ![todo](/images/todo.jpg)
+
+
+### link to todo 
+
+
+- Live Site URL: [todo list](https://relaxed-naiad-e04b3c.netlify.app/)
