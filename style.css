@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.list-section{
+    border: 1px solid powderblue;
+    padding: 20px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+}
+
+.list-group-item{
+    margin: 5px;
+}
+
+.fa-pen-to-square:hover{
+    cursor: pointer;
+    color: green;
+}
+.fa-trash:hover{
+    cursor: pointer;
+    color: red;
+}
