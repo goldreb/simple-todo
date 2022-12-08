@@ -9,5 +9,6 @@
 - user can edit the list
 - the list is stored in local storage.
 
+### todo list image
 
-
+![todo](/images/todo.jpg)
